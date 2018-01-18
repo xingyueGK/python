@@ -1,2 +1,2 @@
 # python
-学神itPYTHOH
+itPYTHOH
